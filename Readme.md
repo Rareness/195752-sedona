@@ -1,7 +1,7 @@
 ﻿# Личный проект «Седона»
 
 * Студент: [Евгения Шабунина](https://up.htmlacademy.ru/htmlcss/13/user/195752).
-* Наставник: [Александр мастер Половников] (https://htmlacademy.ru/profile/alexpol).
+* Наставник: [Александр Половников] (https://htmlacademy.ru/profile/alexpol).
 
 ---
 
